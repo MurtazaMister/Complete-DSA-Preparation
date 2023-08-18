@@ -52,8 +52,8 @@
 |--------|-----|----------------|----------|---------------|---------|-------------|--------
 |<ul style="list-style-type: none;"><li>- [x] </li></ul>|1| [Find first set bit](https://practice.geeksforgeeks.org/problems/find-first-set-bit-1587115620/1)| | | |:green_square: Easy| Bits, Modulo |
 |<ul style="list-style-type: none;"><li>- [x] </li></ul>|2| [Rightmost different bit ](https://practice.geeksforgeeks.org/problems/rightmost-different-bit-1587115621/1)| | | |:green_square: Easy| XOR, Modulo |
-|<ul style="list-style-type: none;"><li>- [ ] </li></ul>|3| [Check whether K-th bit is set or not ](https://practice.geeksforgeeks.org/problems/check-whether-k-th-bit-is-set-or-not-1587115620/1)| | | |:green_square: Easy| XOR, Modulo |
-|<ul style="list-style-type: none;"><li>- [ ] </li></ul>|4| [Count total set bits ](https://practice.geeksforgeeks.org/problems/count-total-set-bits-1587115620/1)| | | |:orange_square: Medium| RIght shift |
+|<ul style="list-style-type: none;"><li>- [x] </li></ul>|3| [Check whether K-th bit is set or not ](https://practice.geeksforgeeks.org/problems/check-whether-k-th-bit-is-set-or-not-1587115620/1)| | | |:green_square: Easy| XOR, Modulo |
+|<ul style="list-style-type: none;"><li>- [x] </li></ul>|4| [Count total set bits ](https://practice.geeksforgeeks.org/problems/count-total-set-bits-1587115620/1)| | | |:orange_square: Medium| RIght shift |
 |<ul style="list-style-type: none;"><li>- [ ] </li></ul>|5| [Bit Difference ](https://practice.geeksforgeeks.org/problems/bit-difference-1587115620/1)| | | |:green_square: Easy| Bits |
 |<ul style="list-style-type: none;"><li>- [ ] </li></ul>|6| [Number is sparse or not  ](https://practice.geeksforgeeks.org/problems/number-is-sparse-or-not-1587115620/1)| | | |:green_square: Easy| Bits |
 |<ul style="list-style-type: none;"><li>- [ ] </li></ul>|7| [Longest Consecutive 1's  ](https://practice.geeksforgeeks.org/problems/longest-consecutive-1s-1587115620/1)| | | |:green_square: Easy| Bits |
