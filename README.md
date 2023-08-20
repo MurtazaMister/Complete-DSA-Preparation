@@ -61,7 +61,7 @@
 |<ul style="list-style-type: none;"><li>- [ ] </li></ul>|9| [Gray to Binary equivalent   ](https://practice.geeksforgeeks.org/problems/gray-to-binary-equivalent-1587115620/1)| | | |:green_square: Easy| Xor, Right Shift |
 |<ul style="list-style-type: none;"><li>- [ ] </li></ul>|10| [Power of 2](https://practice.geeksforgeeks.org/problems/power-of-2-1587115620/1)| | | |:green_square: Easy| AND |
 |<ul style="list-style-type: none;"><li>- [ ] </li></ul>|11| [Swap all odd and even bits](https://practice.geeksforgeeks.org/problems/swap-all-odd-and-even-bits-1587115621/1)| | | |:green_square: Easy| OR |
-|<ul style="list-style-type: none;"><li>- [ ] </li></ul>|12| [Maximum AND Value ](https://practice.geeksforgeeks.org/problems/maximum-and-value-1587115620/1)| | | |:orange_square: Medium| AND |
+|<ul style="list-style-type: none;"><li>- [x] </li></ul>|12| [Maximum AND Value ](https://practice.geeksforgeeks.org/problems/maximum-and-value-1587115620/1)| | | |:orange_square: Medium| AND |
 
 
 
@@ -69,12 +69,12 @@
 
 | Status |  #  |      Title     |   Code   |    Document   |  Video  | Difficulty  | Tag                   
 |--------|-----|----------------|----------|---------------|---------|-------------|--------
-|<ul style="list-style-type: none;"><li>- [ ] </li></ul>|1| [Print 1 to n without using loops](https://practice.geeksforgeeks.org/problems/print-1-to-n-without-using-loops3621/1)| | | |:green_square: Easy| Recursion|
-|<ul style="list-style-type: none;"><li>- [ ] </li></ul>|2| [Sum Of Digits ](https://practice.geeksforgeeks.org/problems/sum-of-digits1742/1)| | | |:green_square: Easy|Recursion|
-|<ul style="list-style-type: none;"><li>- [ ] </li></ul>|3| [Count Total Digits in a Number  ](https://practice.geeksforgeeks.org/problems/count-total-digits-in-a-number/1)| | | |:green_square: Easy|Recursion|
-|<ul style="list-style-type: none;"><li>- [ ] </li></ul>|4| [Digital Root  ](https://practice.geeksforgeeks.org/problems/digital-root/1/)| | | |:orange_square: Medium|Recursion|
-|<ul style="list-style-type: none;"><li>- [ ] </li></ul>|5| [Fibonacci Using Recursion](https://practice.geeksforgeeks.org/problems/fibonacci-using-recursion/1/)| | | |:green_square: Easy|Recursion|
-|<ul style="list-style-type: none;"><li>- [ ] </li></ul>|6| [Tower Of Hanoi](https://practice.geeksforgeeks.org/problems/tower-of-hanoi-1587115621/1)| | | |:orange_square: Medium|Recursion|
+|<ul style="list-style-type: none;"><li>- [x] </li></ul>|1| [Print 1 to n without using loops](https://practice.geeksforgeeks.org/problems/print-1-to-n-without-using-loops3621/1)| | | |:green_square: Easy| Recursion|
+|<ul style="list-style-type: none;"><li>- [x] </li></ul>|2| [Sum Of Digits ](https://practice.geeksforgeeks.org/problems/sum-of-digits1742/1)| | | |:green_square: Easy|Recursion|
+|<ul style="list-style-type: none;"><li>- [x] </li></ul>|3| [Nth Fibonacci Number  ](https://practice.geeksforgeeks.org/problems/nth-fibonacci-number1335/1)| | | |:green_square: Easy|Recursion|
+|<ul style="list-style-type: none;"><li>- [x] </li></ul>|4| [Digital Root  ](https://practice.geeksforgeeks.org/problems/is-digital-root-of-n-a-prime2522/1)| | | |:orange_square: Medium|Recursion|
+|<ul style="list-style-type: none;"><li>- [x] </li></ul>|5| [Fibonacci Using Recursion](https://practice.geeksforgeeks.org/problems/fibonacci-using-recursion/1/)| | | |:green_square: Easy|Recursion|
+|<ul style="list-style-type: none;"><li>- [x] </li></ul>|6| [Tower Of Hanoi](https://practice.geeksforgeeks.org/problems/tower-of-hanoi-1587115621/1)| | | |:orange_square: Medium|Recursion|
 |<ul style="list-style-type: none;"><li>- [ ] </li></ul>|7| [Josephus problem](https://practice.geeksforgeeks.org/problems/josephus-problem/1)| | | |:orange_square: Medium|Recursion|
 
 
